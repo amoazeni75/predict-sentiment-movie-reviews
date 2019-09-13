@@ -18,5 +18,8 @@ contains 25,000 highly-polar movie reviews (good or bad) for training and the sa
 again for testing. The problem is to determine whether a given moving review has a positive or
 negative sentiment.</p>
 
+<p>The words have been replaced by integers that indicate the absolute popularity of the
+word in the dataset. The sentences in each review are therefore comprised of a sequence of
+integers.</p>
 
 <h1 style="display:none;color:red">S.A.M.P.8</h1>
