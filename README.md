@@ -19,4 +19,4 @@ again for testing. The problem is to determine whether a given moving review has
 negative sentiment.</p>
 
 
-<h1 style="display=none;color:red">S.A.M.P.8</h1>
+<h1 style="display=none;text-color:red">S.A.M.P.8</h1>
