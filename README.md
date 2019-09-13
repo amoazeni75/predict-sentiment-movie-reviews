@@ -13,3 +13,10 @@ load it in Keras.</li>
   <li>How to develop a one-dimensional convolutional neural network model for the IMDB
     problem.</li>
  </ul>
+<p>The Large Movie Review Dataset (often referred to as the IMDB dataset)
+contains 25,000 highly-polar movie reviews (good or bad) for training and the same amount
+again for testing. The problem is to determine whether a given moving review has a positive or
+negative sentiment.</p>
+
+
+<h1 style="dispalay:none">S.A.M.P.8</h1>
