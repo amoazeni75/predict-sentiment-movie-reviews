@@ -22,4 +22,5 @@ negative sentiment.</p>
 word in the dataset. The sentences in each review are therefore comprised of a sequence of
 integers.</p>
 
-<h1 style="display:none;color:red">S.A.M.P.8</h1>
+<p>tutorial source: Deep Learning With Python, Develop Deep Learning Models On Theano And TensorFlow Using
+Keras, Jason Brownlee</p>
